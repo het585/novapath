@@ -1,0 +1,6 @@
+{
+  "name": "NovaPath - Stream & Career Discovery for Middle Schoolers",
+  "description": "Gamified stream and career discovery platform for grades 6–10. Decode your superpowers through micro-quests, AI Counselor Arya, and teen mentor sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
